@@ -1,0 +1,14 @@
+package com.xworkz.Method;
+
+public class Car extends Vehicle {
+public static void ride() {
+		
+	}
+	public static void travel() {
+		
+	}
+	public static void consume() {
+	
+}
+
+}

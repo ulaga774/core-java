@@ -1,0 +1,17 @@
+package com.xworkz.Method;
+
+public class Car extends Vehicle {
+	public  void ride() {
+	System.out.println("z");
+		
+	}
+	public  void travel() {
+		System.out.println("y");
+		
+	}
+	public  void consume() {
+		System.out.println("x");
+	
+}
+
+}

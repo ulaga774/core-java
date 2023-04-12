@@ -1,0 +1,20 @@
+package com.xworkz.Method;
+
+public class Vehicle {
+	
+	int enginePrice;
+	int cost;
+	
+	public  void ride(int speed,int km) {
+		System.out.println(speed);
+		System.out.println(km);
+		}
+	public  void travel() {
+		System.out.println("collect moments not a things");
+		}
+	public  void consume() {
+		System.out.println(String fuel);
+		}
+
+}
+	

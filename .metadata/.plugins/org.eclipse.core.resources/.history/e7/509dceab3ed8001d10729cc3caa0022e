@@ -1,0 +1,17 @@
+package com.xworkz.Method;
+
+public class Vehicle {
+	
+	public static void ride() {
+		System.out.println("kiran is rider");
+		
+		
+	}
+	public static void travel() {
+		
+	}
+	public static void consume() {
+	
+}
+
+}

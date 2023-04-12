@@ -1,0 +1,15 @@
+package com.xworkz.Method;
+
+public class Bike extends Vehicle {
+	public  void ride() {
+		System.out.println("kiran is biker");
+		
+	}
+	public  void travel() {
+		
+	}
+	public  void consume() {
+	
+}
+
+}

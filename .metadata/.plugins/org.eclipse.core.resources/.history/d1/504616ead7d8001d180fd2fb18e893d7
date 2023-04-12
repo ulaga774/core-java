@@ -1,0 +1,21 @@
+package com.xworkz.Method;
+
+public class Tricycle extends Vehicle {
+	public  void ride(int speed,int km) {
+		System.out.println(speed);
+		System.out.println(km);
+		
+	}
+	public  void travel() {
+		System.out.println("y");
+		
+	}
+	public  void consume() {
+		System.out.println("x");
+	
+}
+
+	
+	
+
+}

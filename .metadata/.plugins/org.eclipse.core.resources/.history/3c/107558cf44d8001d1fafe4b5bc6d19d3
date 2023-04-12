@@ -1,0 +1,14 @@
+package com.xworkz.Method;
+
+public class Runner {
+	public static void main(String[] args) {
+		Car auto = new Car();
+		auto.ride();
+		auto.travel();
+		auto.consume();
+		
+		Vehicle veh = new Vehicle();
+		veh.ride();
+	}
+
+}

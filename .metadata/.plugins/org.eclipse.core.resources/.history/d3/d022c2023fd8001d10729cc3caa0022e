@@ -1,0 +1,9 @@
+package com.xworkz.Method;
+
+public class Runner {
+	public static void main(String[] args) {
+		Vehicle auto = new Vehicle();
+		auto.ride();
+	}
+
+}
