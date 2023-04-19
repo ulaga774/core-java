@@ -19,6 +19,9 @@ public class BusRunner extends VolvoBus{
 		
 		bus.moreEmergencyFeatures();
 		VolvoBus.givesComfortable();
+		VolvoBus.providesWifi();
+		VolvoBus.providesTelevision();
+		VolvoBus.makesSafetytravel();
 		
 		BusRunner run = new BusRunner(180,"volvo D7E",(short)58,"4 StrockEngine",123456789,Drives.FRONTWHEELDRIVE);
 		System.out.println("protected with non static");

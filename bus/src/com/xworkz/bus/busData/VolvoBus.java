@@ -49,6 +49,16 @@ public class VolvoBus {
 		System.out.println(VolvoBus.noOfMirror);
 		System.out.println(VolvoBus.noOfGears);
 	}
-	
+	public static void providesWifi() {
+		System.out.println("gives free internet");
+		}
+
+	public static void providesTelevision() {
+	System.out.println("makes entertainment");
+	}
+
+	public static void makesSafetytravel() {
+	System.out.println("comfortable to journey");
+	}
 
 }

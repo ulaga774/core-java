@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="com.xworkz.bus.busData.VolvoBus"/>
     <fullyQualifiedTypeName name="com.xworkz.bus.busData.Drives"/>
     <fullyQualifiedTypeName name="com.xworkz.bus.BusRunner"/>
+    <fullyQualifiedTypeName name="com.xworkz.Family.Data.FamilyData"/>
 </qualifiedTypeNameHistroy>
