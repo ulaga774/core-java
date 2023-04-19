@@ -2,4 +2,7 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.xworkz.AccessSpecifier.Movies"/>
     <fullyQualifiedTypeName name="com.xworkz.AccessSpecifier.LailaMajnu"/>
+    <fullyQualifiedTypeName name="com.xworkz.bus.busData.VolvoBus"/>
+    <fullyQualifiedTypeName name="com.xworkz.bus.busData.Drives"/>
+    <fullyQualifiedTypeName name="com.xworkz.bus.BusRunner"/>
 </qualifiedTypeNameHistroy>
