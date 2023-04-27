@@ -8,4 +8,6 @@
     <fullyQualifiedTypeName name="com.xworkz.Family.Data.FamilyData"/>
     <fullyQualifiedTypeName name="com.xworkz.VikramMovie.Doa.VikramMovieDoa"/>
     <fullyQualifiedTypeName name="com.xworkz.Groceries.Dao.GroceryDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.AutoMobiles.Dao.AutoMobilesDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.FruitsRunner.Dao.FruitsDao"/>
 </qualifiedTypeNameHistroy>
