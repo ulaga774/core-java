@@ -7,4 +7,5 @@
     <fullyQualifiedTypeName name="com.xworkz.bus.BusRunner"/>
     <fullyQualifiedTypeName name="com.xworkz.Family.Data.FamilyData"/>
     <fullyQualifiedTypeName name="com.xworkz.VikramMovie.Doa.VikramMovieDoa"/>
+    <fullyQualifiedTypeName name="com.xworkz.Groceries.Dao.GroceryDao"/>
 </qualifiedTypeNameHistroy>
