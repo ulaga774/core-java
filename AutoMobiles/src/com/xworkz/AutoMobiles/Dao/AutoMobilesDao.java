@@ -5,6 +5,7 @@ public class AutoMobilesDao {
 	String[] bike = new String[5];
 
 	public String[] addBikeNames(String bikeNames) {
+		if (bike == null) {
 		for (int i = 0; i< bike.length; i++) {
 			if (bike[i] == null) {
 				bike[i] = bikeNames;
@@ -15,6 +16,9 @@ public class AutoMobilesDao {
 		System.out.println("if the bike value is not null add add values");
 		return bike;
 	}
+		System.out.println("dont run");
+		return bike;
+		}
 
 	public String[] read() {
 		return bike;

@@ -10,4 +10,16 @@
     <fullyQualifiedTypeName name="com.xworkz.Groceries.Dao.GroceryDao"/>
     <fullyQualifiedTypeName name="com.xworkz.AutoMobiles.Dao.AutoMobilesDao"/>
     <fullyQualifiedTypeName name="com.xworkz.FruitsRunner.Dao.FruitsDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.Alcohol.Dto.AlcoholDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.Alcohol.Dao.AlcoholDao"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="com.xworkz.Movie.dto.MovieDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.Movie.dao.MovieDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.moviess.Movie"/>
+    <fullyQualifiedTypeName name="com.xworkz.laptops.dao.LaptopsDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.laptops.dto.LaptopsDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.computer.dto.ChargerType"/>
+    <fullyQualifiedTypeName name="com.xworkz.computer.dao.ComputerDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.computer.dto.ComputerDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.computer.dto.process"/>
 </qualifiedTypeNameHistroy>
