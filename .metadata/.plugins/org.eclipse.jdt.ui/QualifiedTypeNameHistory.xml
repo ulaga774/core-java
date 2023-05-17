@@ -22,4 +22,17 @@
     <fullyQualifiedTypeName name="com.xworkz.computer.dao.ComputerDao"/>
     <fullyQualifiedTypeName name="com.xworkz.computer.dto.ComputerDto"/>
     <fullyQualifiedTypeName name="com.xworkz.computer.dto.process"/>
+    <fullyQualifiedTypeName name="com.xworkz.vegetables.dto.VegetablesDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.vegetables.dto.nutrientsDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.vegetables.constants.VegetablesType"/>
+    <fullyQualifiedTypeName name="com.xworkz.vegetables.dao.VegetablesDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.modifier.dto.ModifierDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.modifier.ModifierRunner"/>
+    <fullyQualifiedTypeName name="com.xworkz.poly.dao.Bank"/>
+    <fullyQualifiedTypeName name="com.xworkz.poly.dao.SBI"/>
+    <fullyQualifiedTypeName name="com.xworkz.poly.dao.Canara"/>
+    <fullyQualifiedTypeName name="com.xworkz.poly.dao.HDFC"/>
+    <fullyQualifiedTypeName name="com.xworkz.mock.dto.MockDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.gym.dao.GymDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.gym.dto.GymDto"/>
 </qualifiedTypeNameHistroy>
