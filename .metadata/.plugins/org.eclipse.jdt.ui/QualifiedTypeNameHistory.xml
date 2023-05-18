@@ -35,4 +35,7 @@
     <fullyQualifiedTypeName name="com.xworkz.mock.dto.MockDto"/>
     <fullyQualifiedTypeName name="com.xworkz.gym.dao.GymDao"/>
     <fullyQualifiedTypeName name="com.xworkz.gym.dto.GymDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.books.dao.BookDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.books.dao.BookDaoTwo"/>
+    <fullyQualifiedTypeName name="com.xworkz.books.dto.BookDto"/>
 </qualifiedTypeNameHistroy>
