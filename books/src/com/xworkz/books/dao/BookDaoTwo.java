@@ -69,4 +69,11 @@ public class BookDaoTwo extends AbstractDao {
 		return false;
 	}
 
+	@Override
+	public boolean srech(String delete) {
+		
+		return false;
+	}
+	
+
 }

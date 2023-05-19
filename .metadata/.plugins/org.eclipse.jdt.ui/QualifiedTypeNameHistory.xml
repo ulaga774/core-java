@@ -38,4 +38,6 @@
     <fullyQualifiedTypeName name="com.xworkz.books.dao.BookDao"/>
     <fullyQualifiedTypeName name="com.xworkz.books.dao.BookDaoTwo"/>
     <fullyQualifiedTypeName name="com.xworkz.books.dto.BookDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.books.dao.Dao"/>
+    <fullyQualifiedTypeName name="java.lang.Byte"/>
 </qualifiedTypeNameHistroy>

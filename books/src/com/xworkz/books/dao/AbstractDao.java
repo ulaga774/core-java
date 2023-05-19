@@ -10,6 +10,8 @@ public abstract class AbstractDao {
 	public abstract boolean find(String findName);
 	public abstract boolean update(String oldName ,String newName);
 	public abstract boolean delete(String delete);
+	public abstract boolean srech(String delete);
+	
 	
 	
 
