@@ -66,9 +66,9 @@ public class ComputerDao {
 	}
 
 	public boolean updateModelByBrand(String brand, String model) {
-		if (brand != null) {
+	//	if (brand != null) {
 			for (int i = 0; i < dto1.length; i++) {
-				if (dto1[i] != null) {
+				//if (dto1[i] != null) {
 					if (dto1[i].getBrand().equals(brand)) {
 						dto1[i].setModel(model);
 						System.out.println("check the brand and update");
@@ -83,10 +83,10 @@ public class ComputerDao {
 				return false;
 			}
 
-		}
-		System.out.println("dto1 value id null ,exe this");
-		return false;
-	}
+		//}
+//		System.out.println("dto1 value id null ,exe this");
+//		return false;
+//	}
 
 	public boolean deleteByColour(String deleteColour) {
 		for (int i = 0; i < dto1.length; i++) {
