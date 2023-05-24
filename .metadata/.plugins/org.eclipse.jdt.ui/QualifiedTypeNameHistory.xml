@@ -40,6 +40,15 @@
     <fullyQualifiedTypeName name="com.xworkz.books.dto.BookDto"/>
     <fullyQualifiedTypeName name="com.xworkz.books.dao.Dao"/>
     <fullyQualifiedTypeName name="java.lang.Byte"/>
-    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.lang.NullPointerException"/>
+    <fullyQualifiedTypeName name="java.lang.ClassNotFoundException"/>
     <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="com.xworkz.exp.constand.InvadidExp"/>
+    <fullyQualifiedTypeName name="com.xworkz.film.constant.DtoIsNull"/>
+    <fullyQualifiedTypeName name="com.xworkz.film.dao.FilmDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.film.dto.FilmDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.film.constant.NullExceptions"/>
 </qualifiedTypeNameHistroy>
