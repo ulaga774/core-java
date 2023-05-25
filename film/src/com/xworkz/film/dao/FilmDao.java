@@ -31,14 +31,16 @@ public class FilmDao extends Exception {
 	}
 
 	public boolean findByName(String found_name) throws NullExceptions {
-		if (found_name != null) {
+		if (found_name == null) {
 			for (int i = 0; i < film_Info.length; i++) {
-				if (film_Info[i] != null) {
+				
+			//	if (film_Info[i] != null) {
 					if (film_Info[i].equals(found_name)) {
+						return true;
 
 					}
-				}
-
+			//	}
+ 
 			}
 
 		}

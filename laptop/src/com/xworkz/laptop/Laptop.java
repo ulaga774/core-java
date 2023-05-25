@@ -7,6 +7,8 @@ public abstract class Laptop {
 	public abstract void haveCharger();
 	public abstract void givesStorage();
 	public abstract void makesPortable();
+	//public abstract void makesPortable(String names);
+	
 	
 
 }

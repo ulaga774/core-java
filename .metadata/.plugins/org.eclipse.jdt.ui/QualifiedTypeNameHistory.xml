@@ -51,4 +51,10 @@
     <fullyQualifiedTypeName name="com.xworkz.film.dao.FilmDao"/>
     <fullyQualifiedTypeName name="com.xworkz.film.dto.FilmDto"/>
     <fullyQualifiedTypeName name="com.xworkz.film.constant.NullExceptions"/>
+    <fullyQualifiedTypeName name="com.xworkz.orphanage.constant.DtoIsNullException"/>
+    <fullyQualifiedTypeName name="com.xworkz.orphanage.constant.ArrayHaveNoSpaceException"/>
+    <fullyQualifiedTypeName name="com.xworkz.orphanage.dto.OrphanageDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.orphanage.dao.OrphanageDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.orphanage.constant.Dto_listArrayIsNullException"/>
+    <fullyQualifiedTypeName name="com.xworkz.orphanage.constant.nameNotFoundException"/>
 </qualifiedTypeNameHistroy>
