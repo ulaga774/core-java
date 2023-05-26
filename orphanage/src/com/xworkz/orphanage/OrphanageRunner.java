@@ -52,7 +52,7 @@ public class OrphanageRunner {
 		}
 		try {
 			System.out.println("-----------delete-----------");
-			dao.delete(null);
+			dao.delete("Happy Home");
 			OrphanageDto[] delete_result = dao.read_all();
 			for (int i = 0; i < delete_result.length; i++) {
 				if (delete_result[i] != null) {

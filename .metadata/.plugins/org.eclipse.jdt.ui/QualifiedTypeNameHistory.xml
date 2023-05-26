@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.xworkz.AccessSpecifier.Movies"/>
     <fullyQualifiedTypeName name="com.xworkz.AccessSpecifier.LailaMajnu"/>
     <fullyQualifiedTypeName name="com.xworkz.bus.busData.VolvoBus"/>
     <fullyQualifiedTypeName name="com.xworkz.bus.busData.Drives"/>
@@ -57,4 +56,8 @@
     <fullyQualifiedTypeName name="com.xworkz.orphanage.dao.OrphanageDao"/>
     <fullyQualifiedTypeName name="com.xworkz.orphanage.constant.Dto_listArrayIsNullException"/>
     <fullyQualifiedTypeName name="com.xworkz.orphanage.constant.nameNotFoundException"/>
+    <fullyQualifiedTypeName name="com.xworkz.moblie.interfaces.MobileInterface"/>
+    <fullyQualifiedTypeName name="com.xworkz.moblie.interfaces.SamSung"/>
+    <fullyQualifiedTypeName name="com.xworkz.moblie.interfaces.SmartPhoneInterface"/>
+    <fullyQualifiedTypeName name="com.xworkz.moblie.interfaces.I_Phone"/>
 </qualifiedTypeNameHistroy>
