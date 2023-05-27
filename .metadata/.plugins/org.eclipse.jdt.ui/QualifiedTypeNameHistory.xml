@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.xworkz.AccessSpecifier.LailaMajnu"/>
-    <fullyQualifiedTypeName name="com.xworkz.bus.busData.VolvoBus"/>
-    <fullyQualifiedTypeName name="com.xworkz.bus.busData.Drives"/>
-    <fullyQualifiedTypeName name="com.xworkz.bus.BusRunner"/>
-    <fullyQualifiedTypeName name="com.xworkz.Family.Data.FamilyData"/>
-    <fullyQualifiedTypeName name="com.xworkz.VikramMovie.Doa.VikramMovieDoa"/>
-    <fullyQualifiedTypeName name="com.xworkz.Groceries.Dao.GroceryDao"/>
-    <fullyQualifiedTypeName name="com.xworkz.AutoMobiles.Dao.AutoMobilesDao"/>
-    <fullyQualifiedTypeName name="com.xworkz.FruitsRunner.Dao.FruitsDao"/>
     <fullyQualifiedTypeName name="com.xworkz.Alcohol.Dto.AlcoholDto"/>
     <fullyQualifiedTypeName name="com.xworkz.Alcohol.Dao.AlcoholDao"/>
     <fullyQualifiedTypeName name="java.lang.System"/>
@@ -60,4 +51,13 @@
     <fullyQualifiedTypeName name="com.xworkz.moblie.interfaces.SamSung"/>
     <fullyQualifiedTypeName name="com.xworkz.moblie.interfaces.SmartPhoneInterface"/>
     <fullyQualifiedTypeName name="com.xworkz.moblie.interfaces.I_Phone"/>
+    <fullyQualifiedTypeName name="lombok.Getter"/>
+    <fullyQualifiedTypeName name="lombok.Setter"/>
+    <fullyQualifiedTypeName name="javax.management.ConstructorParameters"/>
+    <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
+    <fullyQualifiedTypeName name="lombok.ToString"/>
+    <fullyQualifiedTypeName name="com.sun.jdi.Method"/>
+    <fullyQualifiedTypeName name="com.xworkz.engine.dto.EngineDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.engine.dao.constant.DtoNullException"/>
+    <fullyQualifiedTypeName name="com.xworkz.engine.dao.EngineDaoImpl"/>
 </qualifiedTypeNameHistroy>
