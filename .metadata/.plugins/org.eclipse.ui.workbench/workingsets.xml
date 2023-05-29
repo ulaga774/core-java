@@ -6,6 +6,7 @@
 <item elementID="=mock" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Animal" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Computer" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=game" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683298188167_4" label="workout" name="workout">
 <item elementID="=modifier" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -13,6 +14,6 @@
 <item elementID="=enemy" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1680781271086_2" label="Window Working Set" name="Aggregate for window 1680781271086"/>
-<mruList name="workout"/>
 <mruList name="test"/>
+<mruList name="workout"/>
 </workingSetManager>

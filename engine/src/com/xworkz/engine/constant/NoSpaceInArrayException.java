@@ -1,4 +1,4 @@
-package com.xworkz.engine.constatnt;
+package com.xworkz.engine.constant;
 
 public class NoSpaceInArrayException extends Exception {
 	

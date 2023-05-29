@@ -65,6 +65,8 @@ public class EngineDaoImpl implements EngineDao{
 				if(dto_info[i].getEngine_type().equals(deleteIndex)) {
 					dto_info[i] = null;
 					System.out.println("deleted");
+				
+					
 					return true; 
 				}
 				
@@ -76,3 +78,7 @@ public class EngineDaoImpl implements EngineDao{
 	}
 
 }
+
+
+
+
