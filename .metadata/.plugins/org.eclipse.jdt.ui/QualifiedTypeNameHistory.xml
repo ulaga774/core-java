@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.xworkz.moviess.Movie"/>
     <fullyQualifiedTypeName name="com.xworkz.laptops.dao.LaptopsDao"/>
     <fullyQualifiedTypeName name="com.xworkz.laptops.dto.LaptopsDto"/>
     <fullyQualifiedTypeName name="com.xworkz.computer.dto.ChargerType"/>
@@ -60,4 +59,5 @@
     <fullyQualifiedTypeName name="lombok.ToString"/>
     <fullyQualifiedTypeName name="com.xworkz.game.dto.GameDto"/>
     <fullyQualifiedTypeName name="com.xworkz.game.dao.GameDaoImpl"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
 </qualifiedTypeNameHistroy>
