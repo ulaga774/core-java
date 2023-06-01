@@ -66,17 +66,14 @@ public class COllectionRunner {
 		list.set(1, "kamal");
 		list.set(0, "rajini");
 		System.out.println(list.toString());
+	
+		System.out.println("----indexof--");
+		System.out.println(list.indexOf("kamal"));
+		System.out.println("------toarray-----");
+		System.out.println(list.toArray());
+
+		
+		
 	}
-//		System.out.println("----toArray--");
-//		toarray(list);
-//		}
-//	public static ArrayList<String> toarray(ArrayList<String> lists){
-//	
-//		lists.toArray();
-//		System.out.println(lists);
-//		return null;
-//		
-//		
-//	}
 
 }
