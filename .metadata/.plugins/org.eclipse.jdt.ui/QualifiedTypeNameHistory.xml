@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="com.xworkz.computer.dto.process"/>
-    <fullyQualifiedTypeName name="com.xworkz.vegetables.dto.VegetablesDto"/>
-    <fullyQualifiedTypeName name="com.xworkz.vegetables.dto.nutrientsDto"/>
     <fullyQualifiedTypeName name="com.xworkz.vegetables.constants.VegetablesType"/>
     <fullyQualifiedTypeName name="com.xworkz.vegetables.dao.VegetablesDao"/>
     <fullyQualifiedTypeName name="com.xworkz.modifier.dto.ModifierDto"/>
@@ -52,12 +49,15 @@
     <fullyQualifiedTypeName name="com.xworkz.game.dao.GameDaoImpl"/>
     <fullyQualifiedTypeName name="java.util.ArrayList"/>
     <fullyQualifiedTypeName name="com.xworkz.love.dto.LoveDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.company.dto.CompanyDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.company.dao.CompanyDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.company.dao.CompanyDaoImpl"/>
     <fullyQualifiedTypeName name="lombok.Getter"/>
     <fullyQualifiedTypeName name="lombok.Setter"/>
     <fullyQualifiedTypeName name="lombok.AllArgsConstructor"/>
     <fullyQualifiedTypeName name="lombok.ToString"/>
     <fullyQualifiedTypeName name="java.util.LinkedList"/>
-    <fullyQualifiedTypeName name="com.xworkz.company.dto.CompanyDto"/>
-    <fullyQualifiedTypeName name="com.xworkz.company.dao.CompanyDao"/>
-    <fullyQualifiedTypeName name="com.xworkz.company.dao.CompanyDaoImpl"/>
+    <fullyQualifiedTypeName name="com.xworkz.watch.dto.WatchDto"/>
+    <fullyQualifiedTypeName name="com.xworkz.watch.dao.WatchDao"/>
+    <fullyQualifiedTypeName name="com.xworkz.watch.dao.WhatchDaoImpl"/>
 </qualifiedTypeNameHistroy>
