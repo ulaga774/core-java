@@ -29,6 +29,7 @@ public class WhatchDaoImpl implements WatchDao {
 				if (dto.getBrand().equals(findBrand)) {
 					return dto;
 				}
+			
 
 			}
 		}
