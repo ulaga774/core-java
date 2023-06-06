@@ -1,0 +1,13 @@
+package com.xworkz.company.dao;
+
+import java.util.LinkedList;
+
+import com.xworkz.company.dto.CompanyDto;
+
+public interface CompanyDao {
+
+	public boolean save(CompanyDto dto);
+	public LinkedList<CompanyDto> read ();
+	public boolean update(CompanyDto name,CompanyDto type ,CompanyDto owner);
+
+}

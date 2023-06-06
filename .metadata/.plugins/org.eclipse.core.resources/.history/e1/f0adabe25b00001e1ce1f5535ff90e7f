@@ -1,0 +1,5 @@
+package com.xworkz.watch.dto;
+
+public class WatchDto {
+
+}

@@ -1,0 +1,22 @@
+package com.xworkz.watch.dao;
+
+import java.util.LinkedList;
+
+import com.xworkz.watch.dto.WatchDto;
+
+public class WhatchDaoImpl implements WatchDao{
+	
+	LinkedList<WatchDto> list = new LinkedList<WatchDto>();
+
+	@Override
+	public boolean save(WatchDto dto) {
+		if(dto != null) {
+			list.add(dto);
+			return true;
+		}
+		return false;
+	}
+	
+	
+
+}

@@ -1,0 +1,5 @@
+package com.xworkz.hotel.dto;
+
+public class HotelDto {
+
+}

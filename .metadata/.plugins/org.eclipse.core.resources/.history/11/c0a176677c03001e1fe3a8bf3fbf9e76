@@ -1,0 +1,14 @@
+package com.xworkz.treeset;
+
+import java.util.TreeSet;
+
+public class Runner {
+
+	public static void main(String[] args) {
+		 
+		TreeSet<Integer> set = new TreeSet<Integer> ();
+		
+
+	}
+
+}

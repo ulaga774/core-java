@@ -1,0 +1,44 @@
+package com.xworkz.company;
+
+import java.util.LinkedList;
+
+
+import com.xworkz.company.dao.CompanyDaoImpl;
+import com.xworkz.company.dto.CompanyDto;
+
+public class CompanyRunner {
+	
+	public static void main(String[] args) {
+		
+		
+		CompanyDto dto = new CompanyDto("kd", "production", "ulaga", 12345621, 9360389212L);
+		
+		CompanyDaoImpl dao = new CompanyDaoImpl();
+		
+		
+		dao.save(dto);
+
+		LinkedList<CompanyDto> read_result = dao.read();
+		for (CompanyDto Dtos : read_result) {
+			System.out.println(read_result);	
+		}
+		
+		
+		
+		dao.update("kd", "production", "mass");
+//		boolean find_result = dao.find("kd", "production", "ulaga");
+//		System.out.println(find_result);
+		
+		dao.delete();
+//		
+		
+		
+	}
+	
+	
+	
+	
+	
+			
+
+}

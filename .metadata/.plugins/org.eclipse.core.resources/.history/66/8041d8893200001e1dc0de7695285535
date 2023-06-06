@@ -1,0 +1,65 @@
+package com.xworkz.company.dao;
+
+import java.util.LinkedList;
+
+import com.xworkz.company.dto.CompanyDto;
+
+public class CompanyDaoImpl implements CompanyDao {
+	
+	
+	LinkedList<CompanyDto> list = new LinkedList<CompanyDto>();
+	
+	public boolean save(CompanyDto dto) {
+		if(dto != null) {
+			list.add(dto);
+			System.out.println("data saved");
+			return true;
+		}
+		System.out.println("dto is null ,  check the save method");
+		return false;
+		
+	}
+
+	public LinkedList<CompanyDto> read(){
+		return list;
+	}
+	
+	public boolean update(String name,String type ,String owner) {
+		
+		for (CompanyDto Dtos : list) {
+			if(list != null) {
+				if(list.get(0).equals(name)) {
+					if(list.get(1).equals(type)) {
+						list.set(2, owner);
+						System.out.println("name updata");
+						return true;
+					}
+				}	
+			}
+			
+			
+		}
+		return false;
+		
+	}
+	public boolean find(String name,String type ,String owner) {
+		for (CompanyDto Dtos : list) {
+			if(list != null) {
+				if(list.get(0).equals(name)) {
+					if(list.get(1).equals(type)) {
+						if(list.get(2).equals(owner)) {
+							System.out.println("name updata");
+							return true;	
+						}
+						
+					}
+				}	
+			}
+			
+			
+		}
+		return false;
+		
+	}
+
+}

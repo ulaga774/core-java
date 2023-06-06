@@ -1,0 +1,5 @@
+package com.xworkz.watch.dao;
+
+public interface WatchDao {
+
+}

@@ -1,0 +1,41 @@
+package com.xworkz.company;
+
+import java.util.LinkedList;
+
+
+import com.xworkz.company.dao.CompanyDaoImpl;
+import com.xworkz.company.dto.CompanyDto;
+
+public class CompanyRunner {
+	
+	public static void main(String[] args) {
+		
+		
+		CompanyDto dto = new CompanyDto("TVS", "production", "ulaga", 12345621, 9360389212L);
+		CompanyDto dto1 = new CompanyDto("honda", "bike_making", "ulaga", 123876, 9360389212L);
+		CompanyDto dto2 = new CompanyDto("hero", "bikeParts_making", "ulaga", 456456, 9360389212L);
+		
+		CompanyDaoImpl dao = new CompanyDaoImpl();
+		
+		
+		dao.save(dto);
+		dao.save(dto1);
+		dao.save(dto2);
+		
+		LinkedList<CompanyDto> read_result = dao.read();
+		for (CompanyDto Dtos : read_result) {
+			
+			
+		}
+		System.out.println(read_result);
+		
+		
+	}
+	
+	
+	
+	
+	
+			
+
+}

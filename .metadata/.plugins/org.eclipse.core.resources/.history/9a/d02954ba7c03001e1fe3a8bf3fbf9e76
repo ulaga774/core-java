@@ -1,0 +1,24 @@
+package com.xworkz.treeset;
+
+import java.util.TreeSet;
+
+public class Runner {
+
+	public static void main(String[] args) {
+		 
+		TreeSet<Integer> set = new TreeSet<Integer> ();
+		
+		Integer d =5;
+		Integer e =6;
+		Integer a =1;
+		Integer b = 2;
+		Integer c = 4;
+		
+		for (Integer ints : set) {
+			System.out.println(ints);
+		}
+		
+
+	}
+
+}
