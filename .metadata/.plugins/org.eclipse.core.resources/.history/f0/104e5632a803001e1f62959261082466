@@ -1,7 +1,0 @@
-package com.xworkz.hotel.servies;
-
-public interface HotelServies {
-	
-	public boolean save(HotelDto dto);
-
-}

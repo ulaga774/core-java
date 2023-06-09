@@ -1,5 +1,0 @@
-package com.xworkz.hotel.dao;
-
-public interface HotelDao {
-
-}

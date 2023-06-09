@@ -1,9 +1,0 @@
-package com.xworkz.love.dao;
-
-import java.util.LinkedList;
-
-public class LoveDaoImpl implements LoveDao {
-	
-	LinkedList list = new LinkedList();
-
-}

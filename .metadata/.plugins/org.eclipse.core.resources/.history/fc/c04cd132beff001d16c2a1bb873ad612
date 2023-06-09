@@ -1,5 +1,0 @@
-package com.xworkz.love.dao;
-
-public class LoveDaoImpl implements LoveDao {
-
-}
