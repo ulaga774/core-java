@@ -7,14 +7,39 @@
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683298188167_4" label="workout" name="workout">
 <item elementID="=collection" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=school" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=avatarmovie" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=playground" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=facebook" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=featuresInJava" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1685972431082_6" label="AdvanceJava" name="AdvanceJava">
 <item elementID="=Test" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=stringclass" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=comparators" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=electronics" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=book" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=ulaga" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=mass" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=drinks" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Animation" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Abstraction" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Anime" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=movies" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=filmmaker" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=instagram" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=india" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=songs" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=hireact" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Dhaba" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=AjithMovies" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=avater" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=avatar" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=Baaaki" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1680781271086_2" label="Window Working Set" name="Aggregate for window 1680781271086"/>
-<mruList name="test"/>
-<mruList name="AdvanceJava"/>
+<workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687155641440_6" label="Window Working Set" name="Aggregate for window 1687155641440"/>
 <mruList name="workout"/>
+<mruList name="AdvanceJava"/>
+<mruList name="test"/>
 </workingSetManager>
