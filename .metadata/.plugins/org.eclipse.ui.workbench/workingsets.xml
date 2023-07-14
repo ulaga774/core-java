@@ -2,8 +2,15 @@
 <workingSetManager>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1680781256601_0" label="Java Main Sources" name="Java Main Sources"/>
 <workingSet editPageId="org.eclipse.jdt.internal.ui.DynamicSourcesWorkingSet" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1680781256632_1" label="Java Test Sources" name="Java Test Sources"/>
-<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683091518316_3" label="test" name="test">
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683091518316_3" label="projects" name="projects">
+<item elementID="=restaurants" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=tablet" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=vadachennai" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=student" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=leo" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=pizza" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=resume" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=jcb" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
 <workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1683298188167_4" label="workout" name="workout">
 <item elementID="=collection" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
@@ -37,9 +44,14 @@
 <item elementID="=avatar" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 <item elementID="=Baaaki" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
 </workingSet>
+<workingSet editPageId="org.eclipse.jdt.ui.JavaWorkingSetPage" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1689173461281_7" label="Projects" name="Projects">
+<item elementID="=jcb" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+<item elementID="=maga" factoryID="org.eclipse.jdt.ui.PersistableJavaElementFactory"/>
+</workingSet>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1680781271086_2" label="Window Working Set" name="Aggregate for window 1680781271086"/>
 <workingSet aggregate="true" factoryID="org.eclipse.ui.internal.WorkingSetFactory" id="1687155641440_6" label="Window Working Set" name="Aggregate for window 1687155641440"/>
+<mruList name="Projects"/>
+<mruList name="projects"/>
 <mruList name="workout"/>
 <mruList name="AdvanceJava"/>
-<mruList name="test"/>
 </workingSetManager>
